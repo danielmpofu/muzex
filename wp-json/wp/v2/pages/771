@@ -1,0 +1,417 @@
+		<div data-elementor-type="wp-page" data-elementor-id="771" class="elementor elementor-771">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-02a32fc elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="02a32fc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-35c83fc" data-id="35c83fc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bfde531 elementor-widget elementor-widget-muzex_h4_slider" data-id="bfde531" data-element_type="widget" data-widget_type="muzex_h4_slider.default">
+				<div class="elementor-widget-container">
+			
+        <!-- banner section -->
+        <section class=" banner-section banner-section__home-four">
+			            <div class="pattern-layer" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-7.png);">
+						</div>
+            <div class="banner-carousel thm__owl-carousel owl-theme owl-carousel" data-options='{"loop": true, "items": 1, "margin": 0, "dots": false, "nav": true, "animateOut": "fadeOut", "animateIn": "fadeIn", "active": true, "smartSpeed": 1000, "autoplay": true, "autoplayTimeout": 6000, "autoplayHoverPause": false}'>
+			
+							
+                <!-- Slide Item -->
+                <div class="slide-item">
+                    <div class="image-layer lazy-image" style="background-image: url('http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2020/05/banner-2-1.jpg');"></div>
+                    <div class="container">
+                        <div class="banner-content">
+                            <div class="content-box">
+                                <h3>Opening On Sat. Oct 20, 2021</h3>
+                                <h2>The World’s Leading Museum of Contemporary Art</h2>
+								                                <div class="btn-box">
+                                    <a href="https://old3.commonsupport.com/wp/muzex/events-02/" class="btn-style-two">Our All Events</a>
+                                </div>
+								                            </div>
+                            <div class="image-box">
+                                <div class="shape">
+                                    <div class="shape-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-1.png);"></div>
+                                    <div class="shape-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-2.png);"></div>
+                                </div>
+                                <figure class="image">
+								<img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/banner-img-1.jpg" alt="">
+								</figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Slide Item -->
+				
+							
+                <!-- Slide Item -->
+                <div class="slide-item">
+                    <div class="image-layer lazy-image" style="background-image: url('http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2020/05/banner-2-2.jpg');"></div>
+                    <div class="container">
+                        <div class="banner-content">
+                            <div class="content-box">
+                                <h3>Opening On Sat. Oct 20, 2021</h3>
+                                <h2>The World’s Leading Museum of Contemporary Art</h2>
+								                                <div class="btn-box">
+                                    <a href="https://old3.commonsupport.com/wp/muzex/events-02/" class="btn-style-two">Our All Events</a>
+                                </div>
+								                            </div>
+                            <div class="image-box">
+                                <div class="shape">
+                                    <div class="shape-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-1.png);"></div>
+                                    <div class="shape-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-2.png);"></div>
+                                </div>
+                                <figure class="image">
+								<img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/banner-img-2.jpg" alt="">
+								</figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Slide Item -->
+				
+							
+                <!-- Slide Item -->
+                <div class="slide-item">
+                    <div class="image-layer lazy-image" style="background-image: url('http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2020/05/banner-2-3.jpg');"></div>
+                    <div class="container">
+                        <div class="banner-content">
+                            <div class="content-box">
+                                <h3>Opening On Sat. Oct 20, 2021</h3>
+                                <h2>The World’s Leading Museum of Contemporary Art</h2>
+								                                <div class="btn-box">
+                                    <a href="https://old3.commonsupport.com/wp/muzex/events-02/" class="btn-style-two">Our All Events</a>
+                                </div>
+								                            </div>
+                            <div class="image-box">
+                                <div class="shape">
+                                    <div class="shape-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-1.png);"></div>
+                                    <div class="shape-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-2.png);"></div>
+                                </div>
+                                <figure class="image">
+								<img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/banner-img-3.jpg" alt="">
+								</figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Slide Item -->
+				
+								
+            </div>
+        </section>
+        <!-- end banner section -->
+            
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2139712 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2139712" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-459a9da" data-id="459a9da" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0d241ed elementor-widget elementor-widget-muzex_h4_feature" data-id="0d241ed" data-element_type="widget" data-widget_type="muzex_h4_feature.default">
+				<div class="elementor-widget-container">
+			
+        <!-- feature-section -->
+        <section class=" feature-section">
+            <div class="anim-icon">
+				                <div class="icon anim-icon-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-2.png);">
+								</div>
+				                <div class="icon anim-icon-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-2.png);">
+								</div>
+            </div>
+            <div class="container">
+				                <div class="block-title-two text-center">
+                    <p>Information</p>
+                    <h3>Museum Information</h3>
+                </div>
+				                <div class="row clearfix">
+					                    <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
+                        <div class="feature-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <div class="shape" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-3.png);"></div>
+                                    <i class=" muzex-icon-clock"></i>
+                                </div>
+                                <h3>Open Hours</h3>
+                                <p>Daily: 9.30 AM–6.00 PM <br>
+                                Sunday &amp; Holidays: Closed</p>
+								                                <a href="https://old3.commonsupport.com/wp/muzex/events-01/">Our Events</a>
+								                            </div>
+                        </div>
+                    </div>
+					                    <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
+                        <div class="feature-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <div class="shape" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-3.png);"></div>
+                                    <i class=" muzex-icon-location"></i>
+                                </div>
+                                <h3>Find Location</h3>
+                                <p>193 Sturt Street, Westbank 3216, <br />Australia.</p>
+								                                <a href="https://old3.commonsupport.com/wp/muzex/veneu/">Our Venue</a>
+								                            </div>
+                        </div>
+                    </div>
+					                    <div class="col-lg-4 col-md-6 col-sm-12 feature-block">
+                        <div class="feature-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <div class="shape" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-3.png);"></div>
+                                    <i class=" muzex-icon-ticket"></i>
+                                </div>
+                                <h3>Get Ticket</h3>
+                                <p>Collect Your Ticket Before <br />The End</p>
+								                                <a href="https://old3.commonsupport.com/wp/muzex/contact/">Book Ticket</a>
+								                            </div>
+                        </div>
+                    </div>
+					                </div>
+            </div>
+        </section>
+        <!-- feature-section end -->
+            
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-041026d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="041026d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1d7ff0b" data-id="1d7ff0b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-095c6c2 elementor-widget elementor-widget-muzex_h4_about" data-id="095c6c2" data-element_type="widget" data-widget_type="muzex_h4_about.default">
+				<div class="elementor-widget-container">
+			
+        <!-- about-ex-section -->
+        <section class=" about-ex-section">
+			  
+            <div class="pattern-layer" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-4.png);">
+						</div>
+			
+            <div class="anim-icon">
+                <div class="icon anim-icon-1"></div>
+                <div class="icon anim-icon-2"></div>
+				                <div class="icon anim-icon-3" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-2.png);">
+								</div>
+            </div>
+            <figure class="dog-image wow slideInLeft animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+			<img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-5.png" alt="">
+			</figure>
+            <div class="container">
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content-box">
+							                            <div class="block-title">
+                                <p>About muzex</p>
+                                <h3>The Modern Art Museum</h3>
+                            </div>
+							                            <div class="text">
+                                <h3>Welcome to the World’s Leading Museum of Modern Art. It includes works of art created during the period stretching from about 1860 to the 1970s.</h3>
+                                <p>Man face fruit divided seasons herb from herb moveth whose. Dominion gathered winged morning,</p>
+                            </div>
+                            <ul class="list clearfix">
+								                                <li>Non-Western cultures</li>
+								                                <li>Western </li>
+								                                <li>Artifacts and Antiquities</li>
+								                                <li>Traditional Art</li>
+								                                <li>Islamic Arts</li>
+								                                <li>Digital Gallery</li>
+								                                <li>Child Art </li>
+								                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box">
+                            <div class="shape">
+                                <div class="shape-1"></div>
+								                                <div class="shape-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-5.png);">
+																</div>
+								                                <div class="shape-3" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-6.png);">
+																</div>
+                            </div>
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-6 col-sm-12 column">
+									                                    <figure class="image"><img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/about-1.jpg" alt="">
+																		</figure>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 column">
+									                                    <figure class="image"><img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/about-2.jpg" alt="">
+																		</figure>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- about-ex-section end -->
+            
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b493d8 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="0b493d8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dfef4d4" data-id="dfef4d4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b0198cc elementor-widget elementor-widget-muzex_h4_collection" data-id="b0198cc" data-element_type="widget" data-widget_type="muzex_h4_collection.default">
+				<div class="elementor-widget-container">
+			
+        <section class="two collection-two collection-two__home-four">
+            <div class="container">
+				                <div class="block-title-two text-center">
+                    <p>What’s Going on</p>
+                    <h3>Upcoming Exhibitions</h3>
+                </div><!-- /.block-title-two -->
+				                <div class="collection-two__carousel shadowed__carousel thm__owl-carousel owl-carousel owl-theme" data-options='{"loop": true, "margin": 40, "autoplay": true, "items": 1, "smartSpeed": 700, "dots": false, "nav": true, "responsive": {
+                            "1920": { "items": 1},
+                            "1440": { "items": 1},
+                            "1199": { "items": 1},
+                            "991": { "items": 1},
+                            "767": { "items": 1},
+                            "575": { "items": 1},
+                            "480": { "items": 1},
+                            "0": { "items": 1}
+                        }
+                    }'>
+					                    <div class="item">
+                        <div class="collection-two__single">
+                            <div class="collection-two__image">
+                                <img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2020/05/collection-3-1.jpg" alt="">
+                            </div><!-- /.collection-two__image -->
+                            <div class="collection-two__content">
+                                <div class="shape">
+                                    <div class="shape-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-8.png);"></div>
+                                    <div class="shape-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-9.png);"></div>
+                                </div>
+                                <h3><a href="https://old3.commonsupport.com/wp/muzex/events-details/">Weekend Drop-In Sessions 2021 Special</a></h3>
+                                <p>Oct 20, 2021 - Oct 25, 2021</p>
+                            </div><!-- /.collection-two__content -->
+                        </div><!-- /.collection-two__single -->
+                    </div><!-- /.item -->
+					                    <div class="item">
+                        <div class="collection-two__single">
+                            <div class="collection-two__image">
+                                <img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2020/05/collection-3-2.jpg" alt="">
+                            </div><!-- /.collection-two__image -->
+                            <div class="collection-two__content">
+                                <div class="shape">
+                                    <div class="shape-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-8.png);"></div>
+                                    <div class="shape-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-9.png);"></div>
+                                </div>
+                                <h3><a href="https://old3.commonsupport.com/wp/muzex/calvert-richard-joness-duomo/">Calvert Richard Jones’s Duomo.</a></h3>
+                                <p>Oct 21, 2021 - Oct 30, 2021</p>
+                            </div><!-- /.collection-two__content -->
+                        </div><!-- /.collection-two__single -->
+                    </div><!-- /.item -->
+					                    <div class="item">
+                        <div class="collection-two__single">
+                            <div class="collection-two__image">
+                                <img src="http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2020/05/collection-3-3.jpg" alt="">
+                            </div><!-- /.collection-two__image -->
+                            <div class="collection-two__content">
+                                <div class="shape">
+                                    <div class="shape-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-8.png);"></div>
+                                    <div class="shape-2" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-9.png);"></div>
+                                </div>
+                                <h3><a href="https://old3.commonsupport.com/wp/muzex/weekend-drop-in-sessions/">Weekend Drop-In Sessions December</a></h3>
+                                <p>Nov 20, 2021 - Nov 25, 2021</p>
+                            </div><!-- /.collection-two__content -->
+                        </div><!-- /.collection-two__single -->
+                    </div><!-- /.item -->
+					                </div>
+            </div><!-- /.container-fluid -->
+        </section><!-- /.collection-two -->
+            
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c19d4d8 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c19d4d8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f71e64" data-id="7f71e64" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ae31102 elementor-widget elementor-widget-muzex_h4_funfact" data-id="ae31102" data-element_type="widget" data-widget_type="muzex_h4_funfact.default">
+				<div class="elementor-widget-container">
+			
+        <!-- funfact-section -->
+        <section class=" funfact-section">
+			            <div class="bg-layer" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/funfact-1.jpg);">
+						</div>
+            <div class="anim-icon">
+				                <div class="icon anim-icon-1" style="background-image: url(http://old3.commonsupport.com/wp/muzex/wp-content/uploads/2021/01/shape-2.png);">
+								</div>
+                <div class="icon anim-icon-2"></div>
+            </div>
+            <div class="outer-box clearfix">
+                <div class="content-box">
+                    <div class="content-inner">
+						                        <div class="block-title">
+                            <p>Fun Facts</p>
+                            <h3>Muzex In Big <br />Record of Success.</h3>
+                        </div>
+						                        <div class="text">
+                            <p>Man face fruit divided seasons herb from herb moveth whose. Dominion gathered winged morning, man won’t had fly beginning. Winged have saying behold morning greater void shall created whose blessed.</p>
+                        </div>
+                        <div class="counter-outer">
+                            <div class="row clearfix">
+								                                <div class="col-lg-4 col-md-6 col-sm-12 counter-block">
+                                    <div class="counter-inner">
+										<div class="counter-box"><span class="counter-num">245</span><span></span></div>
+                                        <p>Exhibitions <br />Has Been</p>
+                                    </div>
+                                </div>
+								                                <div class="col-lg-4 col-md-6 col-sm-12 counter-block">
+                                    <div class="counter-inner">
+										<div class="counter-box"><span class="counter-num">3</span><span>k</span></div>
+                                        <p>Visitors <br />In Last Year</p>
+                                    </div>
+                                </div>
+								                                <div class="col-lg-4 col-md-6 col-sm-12 counter-block">
+                                    <div class="counter-inner">
+										<div class="counter-box"><span class="counter-num">50</span><span></span></div>
+                                        <p>Awards <br />Have Received</p>
+                                    </div>
+                                </div>
+								                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- funfact-section end -->
+            
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+		{"id":771,"date":"2021-01-19T03:35:49","date_gmt":"2021-01-19T03:35:49","guid":{"rendered":"https:\/\/old3.commonsupport.com\/wp\/muzex\/?page_id=771"},"modified":"2022-09-25T06:01:18","modified_gmt":"2022-09-25T06:01:18","slug":"home-page-04-2","status":"publish","type":"page","link":"http:\/\/old3.commonsupport.com\/wp\/muzex\/","title":{"rendered":"Home Page  04"},"content":{"rendered":"\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-928008b elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"928008b\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e54606\" data-id=\"7e54606\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-d1f1107 elementor-widget elementor-widget-muzex_portfolios3\" data-id=\"d1f1107\" data-element_type=\"widget\" data-widget_type=\"muzex_portfolios3.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t            \n                        <!-- portfolio-section -->\n\t\t\t\n\t\t\t<section class=\"collection-grid collection-masonary gallery-ex-section\">\n            <div class=\"container\">\n                <div class=\"collection-grid__top\">\n\t\t\t\t\t                    <div class=\"block-title text-left\">\n                        <p>Gallery<\/p>\n                        <h3>Explore the Collection<\/h3>\n                    <\/div><!-- \/.block-title -->\n\t\t\t\t\t\n                    <ul class=\"post-filter list-unstyled\">\n                        <li data-filter=\".filter-item\" class=\"active\"><span>All Collection<\/span><\/li>\n\t\t\t\t\t\t                        <li data-filter=\".pictures-1\"><span>Pictures<\/span><\/li>\n\t\t\t\t\t\t                        <li data-filter=\".display-1\"><span>Display<\/span><\/li>\n\t\t\t\t\t\t                        <li data-filter=\".poster-1\"><span>Poster<\/span><\/li>\n\t\t\t\t\t\t                        <li data-filter=\".modern-arts-1\"><span>Modern Arts<\/span><\/li>\n\t\t\t\t\t\t                    <\/ul><!-- \/.collection-filter list-unstyled -->\n                <\/div><!-- \/.collection-grid__top -->\n                <div class=\"row high-gutter filter-layout masonary-layout\">\n                   \n                      \n\t\t\t\t\t\n\t\t\t<div class=\"col-lg-4 col-md-6 filter-item masonary-item pictures-1 \">\n\t\t\t\t<div class=\"collection-grid__single\">\n\t\t\t\t\t<div class=\"collection-grid__image\">\n\t\t\t\t\t\t<img width=\"2000\" height=\"2000\" src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6.jpg 2000w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-300x300.jpg 300w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-1024x1024.jpg 1024w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-150x150.jpg 150w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-768x768.jpg 768w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-1536x1536.jpg 1536w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-140x140.jpg 140w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-80x80.jpg 80w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-105x105.jpg 105w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6-85x85.jpg 85w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" \/>\t\t\t\t\t\t<a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/6.jpg\" class=\"collection-grid__link\">+<\/a><!-- \/.collection-grid__link -->\n\t\t\t\t\t<\/div><!-- \/.collection-grid__image -->\n\t\t\t\t\t<div class=\"collection-grid__content\">\n\t\t\t\t\t\t<h3><span class=\"pt_link\">Living Proof: Drawing In 20th-Century<\/span><\/h3>\n\t\t\t\t\t\t<p>Maria Kibtia<\/p>\n\t\t\t\t\t<\/div><!-- \/.collection-grid__content -->\n\t\t\t\t<\/div><!-- \/.collection-grid__single -->\n\t\t\t<\/div><!-- \/.col-lg-4 -->\n\n            \t\t\t\n\t\t\t<div class=\"col-lg-4 col-md-6 filter-item masonary-item display-1 \">\n\t\t\t\t<div class=\"collection-grid__single\">\n\t\t\t\t\t<div class=\"collection-grid__image\">\n\t\t\t\t\t\t<img width=\"2000\" height=\"2000\" src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5.jpg 2000w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-300x300.jpg 300w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-1024x1024.jpg 1024w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-150x150.jpg 150w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-768x768.jpg 768w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-1536x1536.jpg 1536w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-140x140.jpg 140w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-80x80.jpg 80w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-105x105.jpg 105w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5-85x85.jpg 85w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" \/>\t\t\t\t\t\t<a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/5.jpg\" class=\"collection-grid__link\">+<\/a><!-- \/.collection-grid__link -->\n\t\t\t\t\t<\/div><!-- \/.collection-grid__image -->\n\t\t\t\t\t<div class=\"collection-grid__content\">\n\t\t\t\t\t\t<h3><span class=\"pt_link\">Dhaka  Painting Show<\/span><\/h3>\n\t\t\t\t\t\t<p>Linda M. Rashid<\/p>\n\t\t\t\t\t<\/div><!-- \/.collection-grid__content -->\n\t\t\t\t<\/div><!-- \/.collection-grid__single -->\n\t\t\t<\/div><!-- \/.col-lg-4 -->\n\n            \t\t\t\n\t\t\t<div class=\"col-lg-4 col-md-6 filter-item masonary-item display-1 poster-1 \">\n\t\t\t\t<div class=\"collection-grid__single\">\n\t\t\t\t\t<div class=\"collection-grid__image\">\n\t\t\t\t\t\t<img width=\"2000\" height=\"2000\" src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4.jpg 2000w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-300x300.jpg 300w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-1024x1024.jpg 1024w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-150x150.jpg 150w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-768x768.jpg 768w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-1536x1536.jpg 1536w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-140x140.jpg 140w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-80x80.jpg 80w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-105x105.jpg 105w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4-85x85.jpg 85w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" \/>\t\t\t\t\t\t<a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/4.jpg\" class=\"collection-grid__link\">+<\/a><!-- \/.collection-grid__link -->\n\t\t\t\t\t<\/div><!-- \/.collection-grid__image -->\n\t\t\t\t\t<div class=\"collection-grid__content\">\n\t\t\t\t\t\t<h3><span class=\"pt_link\">American  Landscape Painting<\/span><\/h3>\n\t\t\t\t\t\t<p>Muhibbur Rashid<\/p>\n\t\t\t\t\t<\/div><!-- \/.collection-grid__content -->\n\t\t\t\t<\/div><!-- \/.collection-grid__single -->\n\t\t\t<\/div><!-- \/.col-lg-4 -->\n\n            \t\t\t\n\t\t\t<div class=\"col-lg-4 col-md-6 filter-item masonary-item pictures-1 poster-1 \">\n\t\t\t\t<div class=\"collection-grid__single\">\n\t\t\t\t\t<div class=\"collection-grid__image\">\n\t\t\t\t\t\t<img width=\"2000\" height=\"2000\" src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1.jpg 2000w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-300x300.jpg 300w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-1024x1024.jpg 1024w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-150x150.jpg 150w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-768x768.jpg 768w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-1536x1536.jpg 1536w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-140x140.jpg 140w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-80x80.jpg 80w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-105x105.jpg 105w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1-85x85.jpg 85w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" \/>\t\t\t\t\t\t<a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/3-1.jpg\" class=\"collection-grid__link\">+<\/a><!-- \/.collection-grid__link -->\n\t\t\t\t\t<\/div><!-- \/.collection-grid__image -->\n\t\t\t\t\t<div class=\"collection-grid__content\">\n\t\t\t\t\t\t<h3><span class=\"pt_link\">European  Landscape Painting<\/span><\/h3>\n\t\t\t\t\t\t<p>Jr. Muhibbur Rashid<\/p>\n\t\t\t\t\t<\/div><!-- \/.collection-grid__content -->\n\t\t\t\t<\/div><!-- \/.collection-grid__single -->\n\t\t\t<\/div><!-- \/.col-lg-4 -->\n\n            \t\t\t\n\t\t\t<div class=\"col-lg-4 col-md-6 filter-item masonary-item modern-arts-1 \">\n\t\t\t\t<div class=\"collection-grid__single\">\n\t\t\t\t\t<div class=\"collection-grid__image\">\n\t\t\t\t\t\t<img width=\"2000\" height=\"2000\" src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1.jpg 2000w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-300x300.jpg 300w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-1024x1024.jpg 1024w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-150x150.jpg 150w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-768x768.jpg 768w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-1536x1536.jpg 1536w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-140x140.jpg 140w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-80x80.jpg 80w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-105x105.jpg 105w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1-85x85.jpg 85w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" \/>\t\t\t\t\t\t<a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/2-1.jpg\" class=\"collection-grid__link\">+<\/a><!-- \/.collection-grid__link -->\n\t\t\t\t\t<\/div><!-- \/.collection-grid__image -->\n\t\t\t\t\t<div class=\"collection-grid__content\">\n\t\t\t\t\t\t<h3><span class=\"pt_link\">British Landscape Painting t<\/span><\/h3>\n\t\t\t\t\t\t<p>Alexander Jode<\/p>\n\t\t\t\t\t<\/div><!-- \/.collection-grid__content -->\n\t\t\t\t<\/div><!-- \/.collection-grid__single -->\n\t\t\t<\/div><!-- \/.col-lg-4 -->\n\n            \t\t\t\n\t\t\t<div class=\"col-lg-4 col-md-6 filter-item masonary-item display-1 pictures-1 \">\n\t\t\t\t<div class=\"collection-grid__single\">\n\t\t\t\t\t<div class=\"collection-grid__image\">\n\t\t\t\t\t\t<img width=\"2000\" height=\"2000\" src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1.jpg 2000w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-300x300.jpg 300w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-1024x1024.jpg 1024w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-150x150.jpg 150w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-768x768.jpg 768w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-1536x1536.jpg 1536w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-140x140.jpg 140w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-80x80.jpg 80w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-105x105.jpg 105w, http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1-85x85.jpg 85w\" sizes=\"(max-width: 2000px) 100vw, 2000px\" \/>\t\t\t\t\t\t<a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/1-1.jpg\" class=\"collection-grid__link\">+<\/a><!-- \/.collection-grid__link -->\n\t\t\t\t\t<\/div><!-- \/.collection-grid__image -->\n\t\t\t\t\t<div class=\"collection-grid__content\">\n\t\t\t\t\t\t<h3><span class=\"pt_link\">Medieval Painting Gallery<\/span><\/h3>\n\t\t\t\t\t\t<p>Soloman Solon<\/p>\n\t\t\t\t\t<\/div><!-- \/.collection-grid__content -->\n\t\t\t\t<\/div><!-- \/.collection-grid__single -->\n\t\t\t<\/div><!-- \/.col-lg-4 -->\n\n            \n                                \n                <\/div><!-- \/.row -->\n            <\/div><!-- \/.container -->\n        <\/section><!-- \/.collection-grid -->\n\t\t\t\n        \n    \t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-6df345a elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"6df345a\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"><\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c0d18c\" data-id=\"3c0d18c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-a6ec89e elementor-widget elementor-widget-muzex_cta\" data-id=\"a6ec89e\" data-element_type=\"widget\" data-widget_type=\"muzex_cta.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n        <section class=\"cta-one new\" style=\"background-image: url();\">\n            <div class=\"container text-center\">\n                <h3>More Than 1250 Exhibits!<\/h3>\n                <p>Every day more exhibits arrive in our museum. Do not <br> wait and buy a ticket now.<\/p>\n                <div class=\"cta-one__btn-block\">\n                    <a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/weekend-drop-in-sessions\/\" class=\"thm-btn cta-one__btn-one\">Next  Event<\/a><!-- \/.thm-btn cta-one__btn-one -->\n                    <a href=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/contact\/\" class=\"thm-btn cta-one__btn-two\">Contact Us<\/a><!-- \/.thm-btn cta-one__btn-two -->\n                <\/div><!-- \/.cta-one__btn-block -->\n            <\/div><!-- \/.container -->\n        <\/section><!-- \/.cta-one -->\n            \n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-f856dfe elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"f856dfe\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-658eab4\" data-id=\"658eab4\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-33c71e5 elementor-widget elementor-widget-heading\" data-id=\"33c71e5\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h5 class=\"elementor-heading-title elementor-size-default\">OUR TEAM<\/h5>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c39b763 elementor-widget elementor-widget-heading\" data-id=\"c39b763\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Expert Members<\/h2>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-18f7822 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"18f7822\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-wide\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5bd3018\" data-id=\"5bd3018\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-5089d64 elementor-widget elementor-widget-muzex_team_block\" data-id=\"5089d64\" data-element_type=\"widget\" data-widget_type=\"muzex_team_block.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n\n  <section class=\"team-one team-ex-section team-ex-section pb-0\">\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-12\">\n                        <div class=\"team-one__single\">\n                            <div class=\"team-one__image\">\n                                <div class=\"shape\">\n                                    <div class=\"shape-1\"><\/div>\n                                    <div class=\"shape-2\"><\/div>\n                                <\/div>\n\n\t\t\t\t\t\t\t\t   \n\t\t\t\t\t\t\t\t<img src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/team-1-1.jpg\" alt=\"\"\/>\n\t\t\t\t\t\t\t\t\n                                <ul class=\"social-links clearfix\">\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-facebook-f\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-twitter\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-linkedin-in\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-instagram\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                <\/ul>\n\n                            <\/div><!-- \/.team-one__image -->\n                            <div class=\"team-one__content\">\n                                <h3>Angel Casondra<\/h3>\n                                <p>MANGER<\/p>\n                            <\/div><!-- \/.team-one__content -->\n                        <\/div><!-- \/.team-one__single -->\n                    <\/div><!-- \/.col-lg-4 -->\n                <\/div><!-- \/.row -->\n            <\/div><!-- \/.container -->\n        <\/section>\n\n\t\t\n\t\t\n\n       \n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f43c9b2\" data-id=\"f43c9b2\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-3fa64ab elementor-widget elementor-widget-muzex_team_block\" data-id=\"3fa64ab\" data-element_type=\"widget\" data-widget_type=\"muzex_team_block.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n\n  <section class=\"team-one team-ex-section team-ex-section pb-0\">\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-12\">\n                        <div class=\"team-one__single\">\n                            <div class=\"team-one__image\">\n                                <div class=\"shape\">\n                                    <div class=\"shape-1\"><\/div>\n                                    <div class=\"shape-2\"><\/div>\n                                <\/div>\n\n\t\t\t\t\t\t\t\t   \n\t\t\t\t\t\t\t\t<img src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/team-1-2.jpg\" alt=\"\"\/>\n\t\t\t\t\t\t\t\t\n                                <ul class=\"social-links clearfix\">\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-facebook-f\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-twitter\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-linkedin-in\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-instagram\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                <\/ul>\n\n                            <\/div><!-- \/.team-one__image -->\n                            <div class=\"team-one__content\">\n                                <h3>Allan Campbell<\/h3>\n                                <p>MARKETING<\/p>\n                            <\/div><!-- \/.team-one__content -->\n                        <\/div><!-- \/.team-one__single -->\n                    <\/div><!-- \/.col-lg-4 -->\n                <\/div><!-- \/.row -->\n            <\/div><!-- \/.container -->\n        <\/section>\n\n\t\t\n\t\t\n\n       \n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5df7297\" data-id=\"5df7297\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-f474a37 elementor-widget elementor-widget-muzex_team_block\" data-id=\"f474a37\" data-element_type=\"widget\" data-widget_type=\"muzex_team_block.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n\n  <section class=\"team-one team-ex-section team-ex-section pb-0\">\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-12\">\n                        <div class=\"team-one__single\">\n                            <div class=\"team-one__image\">\n                                <div class=\"shape\">\n                                    <div class=\"shape-1\"><\/div>\n                                    <div class=\"shape-2\"><\/div>\n                                <\/div>\n\n\t\t\t\t\t\t\t\t   \n\t\t\t\t\t\t\t\t<img src=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/team-1-3.jpg\" alt=\"\"\/>\n\t\t\t\t\t\t\t\t\n                                <ul class=\"social-links clearfix\">\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-facebook-f\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-twitter\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-linkedin-in\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                    <li><a href=\"https:\/\/www.facebook.com\/\"><i class=\"fab fa-instagram\"><\/i><\/a><\/li>\n\t\t\t\t\t\t\t\t\t                                <\/ul>\n\n                            <\/div><!-- \/.team-one__image -->\n                            <div class=\"team-one__content\">\n                                <h3>Diana Leach<\/h3>\n                                <p>HELPING AGENTS<\/p>\n                            <\/div><!-- \/.team-one__content -->\n                        <\/div><!-- \/.team-one__single -->\n                    <\/div><!-- \/.col-lg-4 -->\n                <\/div><!-- \/.row -->\n            <\/div><!-- \/.container -->\n        <\/section>\n\n\t\t\n\t\t\n\n       \n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-d2751b0 elementor-section-stretched elementor-section-full_width parallax elementor-section-height-default elementor-section-height-default\" data-id=\"d2751b0\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de4a954\" data-id=\"de4a954\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4a7ff48 elementor-widget elementor-widget-muzex_video\" data-id=\"4a7ff48\" data-element_type=\"widget\" data-widget_type=\"muzex_video.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n\n        <section class=\"video-one text-center\" style=\"background-image: url(https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/09\/video-parallax-1-1-.jpg);\">\n            <div class=\"container\">\n                <a href=\"https:\/\/www.youtube.com\/watch?v=kxPCFljwJws\" class=\"video-popup video-one__btn\"><i class=\"fa fa-play\"><\/i><\/a><!-- \/.video-popup video-one__btn -->\n            <\/div><!-- \/.container -->\n        <\/section><!-- \/.video-one -->\n\n            \n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-2da4f31 elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"2da4f31\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-46809f2\" data-id=\"46809f2\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-7835182 elementor-widget elementor-widget-muzex_h4_blog\" data-id=\"7835182\" data-element_type=\"widget\" data-widget_type=\"muzex_h4_blog.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\n        <section class=\" blog-one blog-ex-section\">\n            <div class=\"container\">\n                <div class=\"blog-one__top\">\n\t\t\t\t\t                    <div class=\"block-title\">\n                        <p>Muzex News<\/p>\n                        <h3>Latest From Our News<\/h3>\n                    <\/div><!-- \/.block-title -->\n\t\t\t\t\t                    <div class=\"more-post__block\">\n                        <a class=\"more-post__link\" href=\"\">\n                            All Post                            <span class=\"curved-circle\">View More &nbsp;&emsp;View More &nbsp;&emsp;View More View More View More &nbsp;&emsp;View &nbsp;&emsp; <\/span>\n                            <!-- \/.curved-circle -->\n                        <\/a>\n                    <\/div><!-- \/.more-post__block -->\n                <\/div><!-- \/.blog-one__top -->\n                <div class=\"row\">\n\t\t\t\t\t                    <div class=\"col-lg-4\">\n                        <div class=\"blog-one__single\">\n                            <div class=\"shape\"><\/div>\n                            <div class=\"blog-one__image\">\n                                <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/blog-1-1.jpg\" alt=\"Image\">\n                                <div class=\"blog-one__date\">\n                                    <i class=\"far fa-calendar-alt\"><\/i>\n                                    May 14, 2020                                <\/div><!-- \/.blog-one__date -->\n                            <\/div><!-- \/.blog-one__image -->\n                            <div class=\"blog-one__content\">\n                                <ul class=\"blog-one__meta list-unstyled\">\n                                    <li><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/celebrating-at-our-egypt-museum\/\">By: Angel Casondra<\/a><\/li>\n                                    <li><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/celebrating-at-our-egypt-museum\/\">No Comments<\/a><\/li>\n                                <\/ul><!-- \/.blog-one__meta list-unstyled -->\n                                <h3><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/celebrating-at-our-egypt-museum\/\">Celebrating at Our Egypt Museum<\/a><\/h3>\n                                <p>Man face fruit divided seasons herb from herb moveth whose dominion gathered winged morning man. ...<\/p>\n                                <a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/celebrating-at-our-egypt-museum\/\" class=\"blog-one__link\">Learn More<\/a><!-- \/.blog-one__link -->\n                            <\/div><!-- \/.blog-one__content -->\n                        <\/div><!-- \/.blog-one__single -->\n                    <\/div><!-- \/.col-lg-4 -->\n\t\t\t\t\t                    <div class=\"col-lg-4\">\n                        <div class=\"blog-one__single\">\n                            <div class=\"shape\"><\/div>\n                            <div class=\"blog-one__image\">\n                                <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/blog-1-2.jpg\" alt=\"Image\">\n                                <div class=\"blog-one__date\">\n                                    <i class=\"far fa-calendar-alt\"><\/i>\n                                    May 14, 2020                                <\/div><!-- \/.blog-one__date -->\n                            <\/div><!-- \/.blog-one__image -->\n                            <div class=\"blog-one__content\">\n                                <ul class=\"blog-one__meta list-unstyled\">\n                                    <li><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/6-reasons-create-playdate-is-great-for-little-ones\/\">By: Angel Casondra<\/a><\/li>\n                                    <li><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/6-reasons-create-playdate-is-great-for-little-ones\/\">No Comments<\/a><\/li>\n                                <\/ul><!-- \/.blog-one__meta list-unstyled -->\n                                <h3><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/6-reasons-create-playdate-is-great-for-little-ones\/\">6 Reasons Create Playdate is Great for Little Ones<\/a><\/h3>\n                                <p>Man face fruit divided seasons herb from herb moveth whose dominion gathered winged morning man. ...<\/p>\n                                <a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/6-reasons-create-playdate-is-great-for-little-ones\/\" class=\"blog-one__link\">Learn More<\/a><!-- \/.blog-one__link -->\n                            <\/div><!-- \/.blog-one__content -->\n                        <\/div><!-- \/.blog-one__single -->\n                    <\/div><!-- \/.col-lg-4 -->\n\t\t\t\t\t                    <div class=\"col-lg-4\">\n                        <div class=\"blog-one__single\">\n                            <div class=\"shape\"><\/div>\n                            <div class=\"blog-one__image\">\n                                <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/blog-1-3.jpg\" alt=\"Image\">\n                                <div class=\"blog-one__date\">\n                                    <i class=\"far fa-calendar-alt\"><\/i>\n                                    May 14, 2020                                <\/div><!-- \/.blog-one__date -->\n                            <\/div><!-- \/.blog-one__image -->\n                            <div class=\"blog-one__content\">\n                                <ul class=\"blog-one__meta list-unstyled\">\n                                    <li><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/this-list-has-been-turned-into-a-web-app\/\">By: Angel Casondra<\/a><\/li>\n                                    <li><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/this-list-has-been-turned-into-a-web-app\/\">No Comments<\/a><\/li>\n                                <\/ul><!-- \/.blog-one__meta list-unstyled -->\n                                <h3><a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/this-list-has-been-turned-into-a-web-app\/\">This List has been Turned into a Web App<\/a><\/h3>\n                                <p>Man face fruit divided seasons herb from herb moveth whose dominion gathered winged morning man. ...<\/p>\n                                <a href=\"http:\/\/old3.commonsupport.com\/wp\/muzex\/2020\/05\/14\/this-list-has-been-turned-into-a-web-app\/\" class=\"blog-one__link\">Learn More<\/a><!-- \/.blog-one__link -->\n                            <\/div><!-- \/.blog-one__content -->\n                        <\/div><!-- \/.blog-one__single -->\n                    <\/div><!-- \/.col-lg-4 -->\n\t\t\t\t\t                <\/div><!-- \/.row -->\n            <\/div><!-- \/.container -->\n        <\/section><!-- \/.blog-one -->\n\t\t\n        \t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-9865d4c elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-id=\"9865d4c\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cffa00b\" data-id=\"cffa00b\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-f3f9754 elementor-widget elementor-widget-muzex_clients\" data-id=\"f3f9754\" data-element_type=\"widget\" data-widget_type=\"muzex_clients.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\n        <section class=\"brand-one new\">\n            <div class=\"container\">\n                <div class=\"brand-one__carousel thm__owl-carousel owl-carousel owl-theme\" data-options='{\n            \"items\": 5, \"margin\": 150, \"smartSpeed\": 700, \"loop\": true, \"autoplay\": true, \"autoplayTimeout\": 5000, \"autoplayHoverPause\": false, \"nav\": false, \"dots\": false, \"responsive\": {\"0\": { \"margin\": 20, \"items\": 2 }, \"575\": { \"margin\": 30, \"items\": 3 },\"767\": { \"margin\": 40, \"items\": 4 },   \"991\": { \"margin\": 70, \"items\": 4 }, \"1199\": { \"margin\": 150, \"items\": 5 } } }'>\n\t\t\t\n\t\t\t\t\t\t\t\t\n                    <div class=\"item\">\n                        <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/brand-1-1.png\" alt=\"Image\">\n                    <\/div><!-- \/.item -->\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n                    <div class=\"item\">\n                        <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/brand-1-2.png\" alt=\"Image\">\n                    <\/div><!-- \/.item -->\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n                    <div class=\"item\">\n                        <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/brand-1-3.png\" alt=\"Image\">\n                    <\/div><!-- \/.item -->\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n                    <div class=\"item\">\n                        <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/brand-1-4.png\" alt=\"Image\">\n                    <\/div><!-- \/.item -->\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n                    <div class=\"item\">\n                        <img src=\"https:\/\/old3.commonsupport.com\/wp\/muzex\/wp-content\/uploads\/2020\/05\/brand-1-5.png\" alt=\"Image\">\n                    <\/div><!-- \/.item -->\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n                <\/div><!-- \/.brand-one__carousel thm__owl-carousel owl-carousel owl-theme -->\n            <\/div><!-- \/.container -->\n        <\/section><!-- \/.brand-one -->\n            \n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t","protected":false},"excerpt":{"rendered":"<p>Gallery Explore the Collection All Collection Pictures Display Poster Modern Arts + Living Proof: Drawing In 20th-Century Maria Kibtia + Dhaka Painting Show Linda M. Rashid + American Landscape Painting Muhibbur Rashid + European Landscape Painting Jr. Muhibbur Rashid + British Landscape Painting t Alexander Jode + Medieval Painting Gallery Soloman Solon More Than 1250 [&hellip;]<\/p>\n","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"tpl-default-elementor.php","meta":[],"_links":{"self":[{"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/pages\/771"}],"collection":[{"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/comments?post=771"}],"version-history":[{"count":115,"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/pages\/771\/revisions"}],"predecessor-version":[{"id":1291,"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/pages\/771\/revisions\/1291"}],"wp:attachment":[{"href":"http:\/\/old3.commonsupport.com\/wp\/muzex\/wp-json\/wp\/v2\/media?parent=771"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}

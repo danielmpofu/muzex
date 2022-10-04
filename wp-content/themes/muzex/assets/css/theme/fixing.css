@@ -1,0 +1,38 @@
+.sidebar__post-image img {
+    height: 70px!important;
+    width: 80px;
+    border-radius: 10px;
+}
+.text-center.d-flex.justify-content-center.align-items-center {
+	display:none;
+}
+.event-details__top {
+    display: none!important;
+}
+.site-footer__bottom .inner-container img{
+	display:none;
+}
+.blog-details__main h3{
+	display:none;
+}
+.blog-one__meta {
+    margin-bottom: 20px;
+}
+.about-ex-section .dog-image {
+    display: none;
+}
+
+.about-ex-section .anim-icon-3 {
+    display: none;
+}
+
+.funfact-section:before,.funfact-section:after{
+    display: none;
+}
+.cta-one.new {
+    background: #363636e0!important;
+}
+
+.banner-section__home-two .content-box h3{
+	color:#fff!important;
+}
